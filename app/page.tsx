@@ -298,7 +298,13 @@ export default function Home() {
               <div className="mt-8 grid gap-4 sm:grid-cols-2">
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <p className="text-sm uppercase tracking-[0.3em] text-slate-500">Email</p>
-                  <p className="mt-2 text-white">akashpallam13@gmail.com</p>
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashpallam13@gmail.com" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="your-existing-styles"
+                    >
+                    akashpallam13@gmail.com 
+                  </a>
                 </div>
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <p className="text-sm uppercase tracking-[0.3em] text-slate-500">GitHub</p>
@@ -314,7 +320,7 @@ export default function Home() {
                 </div>
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <p className="text-sm uppercase tracking-[0.3em] text-slate-500">Resume</p>
-                  <a href="https://drive.google.com/file/d/1__yt7AqQVaOsedmxWKKi0oH-clrMyiFr/view?usp=sharing" download className="mt-2 inline-flex items-center gap-2 text-cyan-300 hover:text-cyan-100">
+                  <a href="/PallamAkashResume.pdf" download className="mt-2 inline-flex items-center gap-2 text-cyan-300 hover:text-cyan-100">
                     Download my resume (PDF) <Download size={16} />
                   </a>
                 </div>
