@@ -1,8 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',      // This creates the 'out' folder for GitHub
+  output: 'export',
+  basePath: '/myprofile', // This tells Next.js the site is in a subfolder
   images: {
-    unoptimized: true,   // Required for static hosting
+    unoptimized: true,
   },
 };
 
