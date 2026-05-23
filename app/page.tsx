@@ -298,7 +298,7 @@ export default function Home() {
           <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-center">
             <div>
               <SectionHeading number="07" title="Contact" subtitle="Let’s collaborate on ambitious XR, AI, and accessibility research." />
-              <p className="max-w-xl text-slate-300">I’m available for research collaborations and AI and Data Sciene, AI/XR engineering, and startup partnerships. Reach out for detailed project discussions, technical proposals, or long-term engineering roles.</p>
+              <p className="max-w-xl text-slate-300">I’m available for research collaborations in AI and Data Sciene, AI/XR/MR/VR engineering, and startup partnerships. Reach out for detailed project discussions, technical proposals, or long-term engineering roles.</p>
               <div className="mt-8 grid gap-4 sm:grid-cols-2">
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <p className="text-sm uppercase tracking-[0.3em] text-slate-500">Email</p>
@@ -324,7 +324,7 @@ export default function Home() {
                 </div>
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <p className="text-sm uppercase tracking-[0.3em] text-slate-500">Resume</p>
-                  <a href="/PallamAkashResume.pdf" download className="mt-2 inline-flex items-center gap-2 text-cyan-300 hover:text-cyan-100">
+                  <a href="https://drive.google.com/file/d/1__yt7AqQVaOsedmxWKKi0oH-clrMyiFr/view?usp=drive_link" download className="mt-2 inline-flex items-center gap-2 text-cyan-300 hover:text-cyan-100">
                     Download my resume (PDF) <Download size={16} />
                   </a>
                 </div>
