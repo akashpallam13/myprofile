@@ -157,15 +157,19 @@ export default function Home() {
                 <div className="flex items-start gap-4 rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <ShieldCheck className="mt-1 h-6 w-6 text-cyan-300" />
                   <div>
-                    <p className="font-semibold text-white">IIT Hyderabad AR/VR Training</p>
+                    <p className="font-semibold text-white">IIT Hyderabad AR/VR Training,Unity & Sentis Development </p>
                     <p className="mt-1 text-sm text-slate-400">Structured XR test engineering, immersive prototyping, and device-specific usability validation.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <Cpu className="mt-1 h-6 w-6 text-cyan-300" />
                   <div>
-                    <p className="font-semibold text-white">Unity & Sentis Development</p>
-                    <p className="mt-1 text-sm text-slate-400">Real-time avatar retargeting, AR Foundation pipelines, and optimization for mobile XR performance.</p>
+                    <p className="font-semibold text-white">Data Science & Machine Learning Trainee  </p>
+                    <p className="mt-1 text-sm text-slate-400">Completed hands-on training in Python, Data science, and Machine Learning 
+                      •  Worked on real-world datasets for classification and prediction problems 
+                      •  Implemented ML algorithms including Linear Regression, Decision Trees, Random Forest, and SVM 
+                      •  Performed data cleaning, feature selection, and model evaluation and model tunning 
+                      •  Applied concepts through projects such as Semiconductor Manufacturing Yield Prediction Process..</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
