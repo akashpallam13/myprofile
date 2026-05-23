@@ -1,7 +1,8 @@
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  output: 'export',      // This creates the 'out' folder for GitHub
   images: {
-    remotePatterns: [],
+    unoptimized: true,   // Required for static hosting
   },
 };
 
