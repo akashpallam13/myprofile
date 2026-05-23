@@ -164,7 +164,7 @@ export default function Home() {
                 <div className="flex items-start gap-4 rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <Cpu className="mt-1 h-6 w-6 text-cyan-300" />
                   <div>
-                    <p className="font-semibold text-white">Data Science & Machine Learning Trainee  </p>
+                    <p className="font-semibold text-white"> Data Science & Machine Learning Trainee  </p>
                     <p className="mt-1 text-sm text-slate-400">Completed hands-on training in Python, Data science, and Machine Learning 
                       •  Worked on real-world datasets for classification and prediction problems 
                       •  Implemented ML algorithms including Linear Regression, Decision Trees, Random Forest, and SVM 
