@@ -314,7 +314,7 @@ export default function Home() {
                 </div>
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <p className="text-sm uppercase tracking-[0.3em] text-slate-500">Resume</p>
-                  <a href="/resume.pdf" download className="mt-2 inline-flex items-center gap-2 text-cyan-300 hover:text-cyan-100">
+                  <a href="https://drive.google.com/file/d/1__yt7AqQVaOsedmxWKKi0oH-clrMyiFr/view?usp=sharing" download className="mt-2 inline-flex items-center gap-2 text-cyan-300 hover:text-cyan-100">
                     Download my resume (PDF) <Download size={16} />
                   </a>
                 </div>
