@@ -71,7 +71,7 @@ export default function Home() {
             <div className="space-y-5">
               <p className="text-sm uppercase tracking-[0.35em] text-cyan-300/80">Akash Pallam</p>
               <h1 className="max-w-3xl text-5xl font-semibold leading-tight tracking-[-0.05em] text-white sm:text-6xl">
-                Building Intelligent XR Systems
+                Data Science | AI/ML | Unity AR/MR/XR Developer | Computer Vision
               </h1>
               <p className="max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
                 Data Science | AI/ML | Unity AR/MR/XR Developer | Computer Vision Researcher. Designing premium AR/VR experiences, accessibility AI, and real-time systems for immersive research labs and product-grade deployments.
@@ -157,8 +157,8 @@ export default function Home() {
                 <div className="flex items-start gap-4 rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
                   <ShieldCheck className="mt-1 h-6 w-6 text-cyan-300" />
                   <div>
-                    <p className="font-semibold text-white">IIT Hyderabad AR/VR Training,Unity & Sentis Development </p>
-                    <p className="mt-1 text-sm text-slate-400">Structured XR test engineering, immersive prototyping, and device-specific usability validation.</p>
+                    <p className="font-semibold text-white">IIT Hyderabad AR/VR Training, Unity & Sentis Development </p>
+                    <p className="mt-1 text-sm text-slate-400"> Structured XR test engineering, immersive prototyping, and device-specific usability validation.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
