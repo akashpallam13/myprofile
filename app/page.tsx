@@ -307,7 +307,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="your-existing-styles"
                     >
-                    akashpallam13@gmail.com 
+                    akashpallam13@gmail.com
                   </a>
                 </div>
                 <div className="rounded-3xl border border-slate-800/80 bg-slate-900/70 p-5">
@@ -352,7 +352,7 @@ export default function Home() {
 
         <footer className="mt-24 border-t border-slate-800/80 pt-8 text-sm text-slate-500">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-            <p>© 2026 Akash Pallam Designed .</p>
+            <p> 2026 BY AKASH PALLAM .</p>
             <div className="flex items-center gap-4 text-cyan-300">
               <a href="https://github.com/akashpallam13" target="_blank" rel="noreferrer" className="transition hover:text-cyan-100">
                 <Github size={16} />
