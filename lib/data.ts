@@ -13,9 +13,9 @@ export type Project = {
 
 export const data = {
   stats: [
-    { label: 'Projects Built', value: '18+' },
-    { label: 'Technologies', value: '45+' },
-    { label: 'Research Areas', value: '6' },
+    { label: 'Projects Built', value: '8+' },
+    { label: 'Technologies', value: '35+' },
+    { label: 'Research Areas', value: '3' },
     { label: 'Certifications', value: '8+' },
   ],
   projects: [
@@ -110,7 +110,7 @@ export const data = {
   timeline: [
     {
       year: '2026· IIT Hyderabad Training',
-      title: 'AR/VR Test Engineer & Unity Developer','Unity Sentis & AR Foundation',
+      title: 'AR/VR Test Engineer & Unity Developer , Unity Sentis & AR Foundation',
       description: 'Gained practical experience in XR systems, hardware validation, and immersive environment evaluation at IIT Hyderabad. * Worked on avatar retargeting, AR-based sign language integration, and real-time perception research.' ,
     },
     {
