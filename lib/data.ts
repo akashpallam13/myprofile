@@ -95,7 +95,7 @@ export const data = {
   ],
   researchHighlights: [
     {
-      title: 'Unity XR Test Engineering',
+      title: 'Unity MR Test Engineering',
       description: 'Immersive testing, motion sickness analysis, and runtime optimization for research-grade XR experiences.',
     },
     {
@@ -109,19 +109,19 @@ export const data = {
   ],
   timeline: [
     {
-      year: '2025 · IIT Hyderabad Training',
-      title: 'AR/VR Test Engineer & Unity Developer',
-      description: 'Hands-on XR exercises, hardware validation, and immersive system evaluations at IIT Hyderabad.',
+      year: '2026· IIT Hyderabad Training',
+      title: 'AR/VR Test Engineer & Unity Developer','Unity Sentis & AR Foundation',
+      description: 'Gained practical experience in XR systems, hardware validation, and immersive environment evaluation at IIT Hyderabad. * Worked on avatar retargeting, AR-based sign language integration, and real-time perception research.' ,
     },
     {
-      year: '2024 · XR Research Systems',
-      title: 'Unity Sentis & AR Foundation',
-      description: 'Built avatar retargeting pipelines, AR sign language overlays, and real-time perception research.',
+      year: '2025',
+      title: 'Data Science & Machine Learning Trainee.',
+      description: 'Completed hands-on training in Python, Data science, and Machine Learning • Worked on real-world datasets for classification and prediction problems • Implemented ML algorithms including Linear Regression, Decision Trees, Random Forest, and SVM • Performed data cleaning, feature selection, and model evaluation and model tunning • Applied concepts through projects such as Semiconductor Manufacturing Yield Prediction Process..',
     },
     {
-      year: '2023 · AI Accessibility Lab',
+      year: '2024· AI Accessibility Lab',
       title: 'Speech-to-gesture research',
-      description: 'Developed accessibility AI modules for expressive avatar controls and assistive communication.',
+      description: '',
     },
   ],
   skillCategories: [
